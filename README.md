@@ -1,4 +1,3 @@
-# desafio03
-colaboradores:
-Cristian Kunzagk
+# examen react
+
 Ignacio Romero
